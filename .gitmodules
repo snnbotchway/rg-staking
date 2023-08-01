@@ -1,3 +1,6 @@
 [submodule "hardhat"]
 	path = hardhat
 	url = git@github.com:snnbotchway/rgs-hardhat.git
+[submodule "nextJs"]
+	path = nextJs
+	url = git@github.com:snnbotchway/rgs-nextjs.git
