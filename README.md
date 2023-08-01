@@ -36,7 +36,8 @@ To get started, the reward pool must be initialized by sending exactly 10,000 to
 
 ## Contract Links
 
-[RGT Token]([URL](https://testnet.snowtrace.io/address/0x16855ba2Dba2485075a8C7e780d400B6c75BbC2F#code))
-[RG Staking]([URL](https://testnet.snowtrace.io/address/0x4B4d54AA4a93a45f76B4608886b2f7BF5CD8cB33#code))
+[RGT Token](https://testnet.snowtrace.io/address/0x16855ba2Dba2485075a8C7e780d400B6c75BbC2F#code)
+
+[RG Staking](https://testnet.snowtrace.io/address/0x4B4d54AA4a93a45f76B4608886b2f7BF5CD8cB33#code)
 
 Happy Staking!
