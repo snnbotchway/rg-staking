@@ -12,17 +12,17 @@ The smart contract offers the following:
 
 ### Asset Creation and Reward Distribution
 
-For every 10 tokens (1 asset) purchased, an "Asset" is created and associated with the user's wallet address. For instance, if a user deposits 40 tokens, they become the owner of 4 assets.
+- For every 10 tokens (1 asset) purchased, an "Asset" is created and associated with the user's wallet address. For instance, if a user deposits 40 tokens, they become the owner of 4 assets.
 
-Every 24 hours, asset owners are entitled to a reward of 0.1 tokens per asset they hold. This reward is calculated based on the number of assets owned by the user.
+- Every 24 hours, asset owners are entitled to a reward of 0.1 tokens per asset they hold. This reward is calculated based on the number of assets owned by the user.
 
 ### Reward Pool
 
-A reward pool with 10,000 native tokens has been initialized to facilitate rewards distribution. The pool will be used to pay out rewards to asset owners.
+- A reward pool with 10,000 native tokens has been initialized to facilitate rewards distribution. The pool will be used to pay out rewards to asset owners.
 
 ### Claiming Rewards
 
-Asset owners can claim their earned rewards at any time during a given time frame. However, the claimable reward amount is capped at the maximum available balance in the reward pool. This ensures that the reward distribution does not exceed the available rewards.
+- Asset owners can claim their earned rewards at any time during a given time frame. However, the claimable reward amount is capped at the maximum available balance in the reward pool. This ensures that the reward distribution does not exceed the available rewards.
 
 ## Reasoning around the Implementation
 
