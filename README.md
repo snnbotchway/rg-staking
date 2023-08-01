@@ -1,10 +1,10 @@
 # RG Staking
 
-Purchase assets by depositing tokens and earn rewards based on your holdings. Visit rg-staking.on.fleek.co
+Purchase assets by depositing tokens and earn rewards based on your holdings. Visit [rg-staking.on.fleek.co](https://rg-staking.on.fleek.co)
 
 ## Smart Contract
 
-Our smart contract offers the following functionalities:
+The smart contract offers the following:
 
 ### Token Creation and Asset Ownership
 
